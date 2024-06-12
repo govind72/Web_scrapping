@@ -17,10 +17,10 @@ This project is a web scraping application built with FastAPI. It scrapes headph
    cd web_scraping
    ```
 2. Install the required packages:
-  ```sh
+   ```sh
    pip install -r requirements.txt
-  ```
+   ```
+
 3. Start the FastAPI development server:
    ```sh
    uvicorn main:app --reload
-  ```
