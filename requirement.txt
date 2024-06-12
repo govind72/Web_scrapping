@@ -1,0 +1,4 @@
+fastapi
+starlette
+beautifulsoup4
+requests
